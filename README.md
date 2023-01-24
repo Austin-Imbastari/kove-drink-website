@@ -20,6 +20,7 @@ A website that I created for a local company in San Diego that serves hard Yurba
 ## Features
 
 - User can view a list of drinks that kove sells.
+- User can click on drinks and find details for them.
 ## Development
 
 #### Getting Started
