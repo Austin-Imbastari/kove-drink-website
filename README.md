@@ -13,7 +13,7 @@ A website that I created for a local company in San Diego that serves hard Yurba
 - React Router
 
 ## Live Demo
-- https://majestic-cajeta-c3f3ca.netlify.app/
+- https://deft-bublanina-bd6fa4.netlify.app/
 
 ## Preview
 ![Jan-15-2023 21-36-23](https://user-images.githubusercontent.com/55529532/212605804-6091b766-db49-4fe9-832a-8f66ac414b33.gif)
